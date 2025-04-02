@@ -1,6 +1,7 @@
 {
   "name": "doctor_management_backend",
   "version": "1.0.0",
+  "type": "module",
   "description": "Doctor Appointment Management System for mobile app and website",
   "main": "index.js",
   "scripts": {
