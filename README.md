@@ -3,16 +3,6 @@
 ## About My Project
 This project is a scalable backend service for managing doctor appointments. It is built with Express.js and utilizes a MongoDB database. The system is designed to support mobile applications and web interfaces for scheduling, managing, and tracking appointments.
 
-## File Structure
-doctor_management_backend/
-├── package.json
-├── index.js
-├── .env
-├── utils
-│   ├── success.js
-│   └── error.js
-└── README.md
-
 ## How to Install
 1. Clone the repository. 
 ```bash
