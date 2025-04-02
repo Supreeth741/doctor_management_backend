@@ -1,0 +1,26 @@
+{
+  "name": "doctor_management_backend",
+  "version": "1.0.0",
+  "description": "Doctor Appointment Management System for mobile app and website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supreeth741/doctor_management_backend.git"
+  },
+  "keywords": [
+    "Doctor",
+    "Appointment",
+    "System",
+    "Backend",
+    "MongoDB"
+  ],
+  "author": "Supreeth TP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Supreeth741/doctor_management_backend/issues"
+  },
+  "homepage": "https://github.com/Supreeth741/doctor_management_backend#readme"
+}
